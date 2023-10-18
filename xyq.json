@@ -3,7 +3,7 @@
     "spider": "./jar/XYQ.jar;md5;f91ba72d2516a995da86b7321440c653",
     "lives": [
         {
-          "name": "奕健",
+          "name": "直播",
           "type": 0,
           "playerType": 1,
           "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
