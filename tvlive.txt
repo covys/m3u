@@ -142,6 +142,20 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 汕头台,http://113.117.74.28:8081/hls/24/index.m3u8
 
 
+欧美,#genre#
+Cum 4k,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6190/index.m3u8
+Extasy 4K,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/5014/index.m3u8
+Tiny 4K,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6258/index.m3u8
+俄罗斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+俄罗斯成人2台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+俄罗斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+午夜6,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+午夜8,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+午夜9,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+
+
 浙江,#genre#
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
