@@ -136,6 +136,10 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
+本港台,http://171.110.42.48:8181/tsfile/live/1068_1.m3u8
+本港台,http://gxdl-lhs.8866.org:85/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+本港台,http://113.117.74.28:8081/hls/135/index.m3u8
+汕头台,http://113.117.74.28:8081/hls/24/index.m3u8
 
 
 浙江,#genre#
