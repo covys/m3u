@@ -19,6 +19,36 @@
             "type": 0,
             "url": "https://ghproxy.com/raw.githubusercontent.com/covys/m3u/main/tv.txt",
             "playerType": 1
+        }        
+	{
+            "name": "初秋语18",
+            "type": 0,
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt",
+            "playerType": 1
+        }
+	{
+            "name": "YanG",
+            "type": 0,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u",
+            "playerType": 1
+        }
+	{
+            "name": "atsushi",
+            "type": 0,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u",
+            "playerType": 1
+        }
+	{
+            "name": "小武哥",
+            "type": 0,
+            "url": "https://qu.ax/PEHy.txt",
+            "playerType": 1
+        }
+	{
+            "name": "AV",
+            "type": 0,
+            "url": "https://ghproxy.com//raw.githubusercontent.com/gaotianliuyun/gao/master/livex.m3u",
+            "playerType": 1
         }
     ],
     "sites": [
