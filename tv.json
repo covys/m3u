@@ -21,21 +21,9 @@
             "playerType": 1
         },
         {
-            "name": "唐三",
-            "type": 0,
-            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-            "playerType": 1
-        },
-        {
             "name": "PG ONE初秋语•综合",
             "type": 0,
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt",
-            "playerType": 1
-        },
-        {
-            "name": "PG ONE俊于•综合",
-            "type": 0,
-            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
             "playerType": 1
         },
         {
@@ -43,6 +31,7 @@
             "type": 0,
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
             "playerType": 1
+        },
         {
             "name": "初秋语18",
             "type": 0,
