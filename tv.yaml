@@ -17,7 +17,7 @@ tv:
   - DOMAIN-SUFFIX,ymck.pro
   - DOMAIN-SUFFIX,007ts.me
 
- - IP-CIDR,43.155.64.249/32,no-resolve
- - IP-CIDR,43.154.2.47/32,no-resolve
- - IP-CIDR,104.192.108.23/32,no-resolve
- - IP-CIDR,43.154.55.197/32,no-resolve
+  - IP-CIDR,43.155.64.249/32,no-resolve
+  - IP-CIDR,43.154.2.47/32,no-resolve
+  - IP-CIDR,104.192.108.23/32,no-resolve
+  - IP-CIDR,43.154.55.197/32,no-resolve
