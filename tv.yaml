@@ -1,6 +1,6 @@
 payload:
   # 内容：安卓电视
-  # 数量：17条
+  # 数量：23条
   - DOMAIN-SUFFIX,xiguapic.xyz
   - DOMAIN-SUFFIX,lzzyimg.com
   - DOMAIN-SUFFIX,mgtv.com
@@ -19,3 +19,10 @@ payload:
   - IP-CIDR,43.154.2.47/32,no-resolve
   - IP-CIDR,104.192.108.23/32,no-resolve
   - IP-CIDR,43.154.55.197/32,no-resolve
+  - IP-CIDR,154.7.176.80/32,no-resolve
+  - IP-CIDR,43.134.197.150/32,no-resolve
+  - IP-CIDR,134.122.171.199/32,no-resolve
+  - IP-CIDR,23.225.159.19/32,no-resolve
+  - IP-CIDR,111.223.246.24/32,no-resolve
+  - IP-CIDR,64.68.192.67/32,no-resolve
+  - IP-CIDR,23.224.105.12/32,no-resolve
