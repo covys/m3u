@@ -7,6 +7,8 @@ payload:
   - DOMAIN-SUFFIX,zxzj.site
   - DOMAIN-SUFFIX,mervod.com
   - DOMAIN-SUFFIX,tutugua.com
+  - DOMAIN-SUFFIX,tutugua.xn
+  - DOMAIN-SUFFIX,xiaoluys.xn
   - DOMAIN-SUFFIX,huamaotv.com
   - DOMAIN-SUFFIX,xiaoluys.me
   - DOMAIN-SUFFIX,1080.love
@@ -14,7 +16,6 @@ payload:
   - DOMAIN-SUFFIX,dadagui.me
   - DOMAIN-SUFFIX,ymck.pro
   - DOMAIN-SUFFIX,007ts.me
-  - DOMAIN,www.tutugua.xn--comsousuohou-1f5sz8eu40ucbsc
 
   - IP-CIDR,43.155.64.249/32,no-resolve
   - IP-CIDR,43.154.2.47/32,no-resolve
@@ -30,3 +31,10 @@ payload:
   - IP-CIDR,118.107.12.201/32,no-resolve
   - IP-CIDR,134.122.172.199/32,no-resolve
   - IP-CIDR,118.107.12.201/32,no-resolve
+  - IP-CIDR,154.26.193.101/32,no-resolve
+  - IP-CIDR,156.251.239.2/32,no-resolve
+  - IP-CIDR,104.16.59.59/32,no-resolve
+  - IP-CIDR,103.172.110.120,no-resolve
+  - IP-CIDR,64.68.192.58,no-resolve
+  - IP-CIDR,103.197.25.136,no-resolve
+  - IP-CIDR,64.68.192.56,no-resolve
