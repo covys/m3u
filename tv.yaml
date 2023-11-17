@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,dadagui.me
   - DOMAIN-SUFFIX,ymck.pro
   - DOMAIN-SUFFIX,007ts.me
+  - DOMAIN,www.tutugua.xn--comsousuohou-1f5sz8eu40ucbsc
 
   - IP-CIDR,43.155.64.249/32,no-resolve
   - IP-CIDR,43.154.2.47/32,no-resolve
@@ -26,3 +27,6 @@ payload:
   - IP-CIDR,111.223.246.24/32,no-resolve
   - IP-CIDR,64.68.192.67/32,no-resolve
   - IP-CIDR,23.224.105.12/32,no-resolve
+  - IP-CIDR,118.107.12.201/32,no-resolve
+  - IP-CIDR,134.122.172.199/32,no-resolve
+  - IP-CIDR,118.107.12.201/32,no-resolve
