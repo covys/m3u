@@ -11,7 +11,7 @@
         {
             "name": "TV",
             "type": 0,
-            "url": "https://ghproxy.com/raw.githubusercontent.com/covys/m3u/main/tv.txt",
+            "url": "https://raw.githubusercontent.com/covys/m3u/main/tv.txt",
             "playerType": 1
         },
         {
@@ -23,7 +23,7 @@
         {
             "name": "PG ONE初秋语•综合",
             "type": 0,
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt",
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt",
             "playerType": 1
         },
         {
@@ -41,19 +41,19 @@
         {
             "name": "初秋语18",
             "type": 0,
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt",
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt",
             "playerType": 1
         },
         {
             "name": "YanG18",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u",
+            "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u",
             "playerType": 1
         },
         {
             "name": "atsushi18",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u",
+            "url": "https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u",
             "playerType": 1
         },
         {
@@ -65,7 +65,7 @@
         {
             "name": "AV18",
             "type": 0,
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/livex.m3u",
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/livex.m3u",
             "playerType": 1
         }
     ],
@@ -83,7 +83,7 @@
             "key": "bili_open",
             "name": "哔哩猫",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+            "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
             "searchable": 1,
             "changeable": 0,
             "ext": {
